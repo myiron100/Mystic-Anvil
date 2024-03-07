@@ -1,0 +1,13 @@
+name: MysticAnvil
+version: '${project.version}'
+main: org.mysticanvil.MysticAnvil
+api-version: '1.18'
+author: ironPhil24k - MYSTIC SUDIO COPYRIGHT
+depend:
+  - Vault
+commands:
+  mysticanvil:
+    description: Open the gui
+
+
+
